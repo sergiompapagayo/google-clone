@@ -148,8 +148,11 @@ a:active {
   height: 24px;
   opacity: 1;
 }
+/* .microphone-icon {
+  padding: 0 8px;
+} */
 .camera-icon {
-  padding-left: 16px;
+  padding-right: 16px;
 }
 
 .search > input {
